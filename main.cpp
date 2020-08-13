@@ -10,6 +10,7 @@ int main(int argc, char *argv[])
     MainWindow w;
 
     cout << "hiiiiiii "<< endl;
+    cout << "movafagh shodiiiiiiim belakhare" << endl;
 
     // hellooooooooooooooooooooooooooooooooooooooo
     w.show();
